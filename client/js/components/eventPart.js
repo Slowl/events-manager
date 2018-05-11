@@ -28,5 +28,3 @@ export const eventAttendees = attendees => {
 
   `
 }
-
-// comment creer dynamiquement chaque page avec une id unique lié à l'event ?

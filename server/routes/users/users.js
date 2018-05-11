@@ -57,21 +57,4 @@ router.get('/users', (req, res) => {
 
 })
 
-
-// const user_1 = require('../../../mocks/users/1.json')
-// const user_2 = require('../../../mocks/users/2.json')
-// const user_3 = require('../../../mocks/users/3.json')
-// const user_4 = require('../../../mocks/users/4.json')
-//
-// const users = [
-//   user_1,
-//   user_2,
-//   user_3,
-//   user_4
-// ]
-//
-// router.get('/users', (req, res) => {
-//   res.json(users)
-// })
-
 module.exports = router
