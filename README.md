@@ -37,14 +37,18 @@ I decided to build my own version alone on my free time.
 
 # Screenshots :
 
-Homepage:
+**Homepage**:
+
 ![homepage](http://hedik.fr/imgs/eventmanager/home.png)
 
-Event details page:
+**Event details page**:
+
 ![event details](http://hedik.fr/imgs/eventmanager/event-details.png)
 
-Event proposition page:
+**Event proposition page**:
+
 ![event proposition](http://hedik.fr/imgs/eventmanager/event-proposition.png)
 
-Inscription page:
+**Inscription page**:
+
 ![inscription](http://hedik.fr/imgs/eventmanager/inscription.png)
