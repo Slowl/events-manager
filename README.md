@@ -1,7 +1,9 @@
 # Events Manager [WIP]
 
 Events Manager constructed with the goal to be reusable on differents projects and be easily integrated.
-The idea came from a group project at the [Wild Code School](https://wildcodeschool.fr/). I decided to build my own version alone on my free time.
+The idea came from a group project at the [Wild Code School](https://wildcodeschool.fr/).
+
+I decided to build my own version alone on my free time.
 
 # Installation
 
@@ -32,3 +34,17 @@ The idea came from a group project at the [Wild Code School](https://wildcodesch
 - Simple inscription [✔]
 - Personnalisation of profils [✖]
 - Connexion & deconnexion after registration [✖]
+
+# Screenshots :
+
+Homepage:
+![homepage](http://hedik.fr/imgs/eventmanager/home.png)
+
+Event details page:
+![event details](http://hedik.fr/imgs/eventmanager/event-details.png)
+
+Event proposition page:
+![event proposition](http://hedik.fr/imgs/eventmanager/event-proposition.png)
+
+Inscription page:
+![inscription](http://hedik.fr/imgs/eventmanager/inscription.png)
