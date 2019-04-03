@@ -39,16 +39,16 @@ I decided to build my own version alone on my free time.
 
 **Homepage**:
 
-![homepage](http://hedik.fr/imgs/eventmanager/home.png)
+![homepage](https://i.ibb.co/k0hmzzd/home.png)
 
 **Event details page**:
 
-![event details](http://hedik.fr/imgs/eventmanager/event-details.png)
+![event details](https://i.ibb.co/YpNb4HS/event-details.png)
 
 **Event proposition page**:
 
-![event proposition](http://hedik.fr/imgs/eventmanager/event-proposition.png)
+![event proposition](https://i.ibb.co/2NMTmrv/event-proposition.png)
 
 **Inscription page**:
 
-![inscription](http://hedik.fr/imgs/eventmanager/inscription.png)
+![inscription](https://i.ibb.co/bJ4v3Bp/inscription.png)
